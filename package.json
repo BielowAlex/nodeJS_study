@@ -2,6 +2,8 @@
   "name": "nodeJS_study",
   "version": "1.0.0",
   "dependencies": {
-    "express": "^4.18.1"
+    "axios": "^0.27.2",
+    "express": "^4.18.1",
+    "mongoose": "^6.4.4"
   }
 }
